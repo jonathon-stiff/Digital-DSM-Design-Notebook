@@ -1,0 +1,12 @@
+table.lt {margin:auto
+         }
+th.ltable, 
+td.ltable {text-align:center;
+           vertical-align:middle;
+	   min-width:6em;
+           border: 1px solid black;padding:2px;
+          }
+caption.clt {display: table-caption;
+             caption-side: top;text-align:center;
+             font-weight: bold;font-color: black;
+	    }
